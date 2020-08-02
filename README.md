@@ -1,4 +1,4 @@
-# hall900_Bot
+# hal900_Bot
 
 This project is in reality an excercise in DOM structure and Bot creation with HTML editing using JS.
 The bot is styled as Hall 9000 from 2001. 
